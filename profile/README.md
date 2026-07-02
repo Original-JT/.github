@@ -1,18 +1,18 @@
 <!--
   Original JT — GitHub organization profile README.
 
-  To make github.com/Original-JT render this page:
-    1. Create a public repo in the Original-JT org named exactly:  .github
-    2. Add this file at the path:  profile/README.md
-    3. Commit. GitHub shows it on the org landing page automatically.
-
-  (Logo: once originaljt-badge.svg is hosted at a stable URL — e.g. in this repo
-   or on originaljt.com — add it at the top with an <img> tag, width ~96.)
+  Renders on github.com/Original-JT because this file lives at profile/README.md
+  in the org's public `.github` repo. The logo below is served raw from this same
+  repo (profile/logo.png) — regenerate it from sr-website/brand/originaljt-badge.svg.
 -->
 
-# Original JT
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Original-JT/.github/main/profile/logo.png" alt="Original JT" width="96">
+</p>
 
-**Developer tools, made with care.**
+<h1 align="center">Original JT</h1>
+
+<p align="center"><strong>Developer tools, made with care.</strong></p>
 
 ### Source Runner — `sr`
 
